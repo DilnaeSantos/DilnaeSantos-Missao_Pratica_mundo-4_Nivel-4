@@ -3,13 +3,13 @@
 ## Informações do Curso
 
 - **Projeto:** Banco de Dados SQL para a Empresa LogiMove Transportes
-- **Curso:** Análise e Desenvolvimento de Sistemas
+- **Curso:** Full Stack
 - **Universidade:** Estácio de Sá - Campus São José dos Pinhais
 - **Período:** 4º Período
 - **Turma:** 9001
 - **Tecnologia:** SQL no Azure
-- **Tutor:** Altamira de Souza Queiroz
-- **Matéria:** Banco de Dados Relacional (RPG0025)
+- **Tutor:** Maria Manso
+- **Matéria:** Tirando Proveito da Nuvem Para Projetos de Software (RPG0026)
 
 ## Informações do Aluno
 
